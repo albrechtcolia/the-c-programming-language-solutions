@@ -49,6 +49,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 07</b>
 
+<b>Chapter 08</b>
+
 <br>
 
 :smiley: Author
