@@ -20,7 +20,7 @@ int main (int argc, char *argv[])
     upper = 300;    // Upper limit.
     step  = 20;     // Step size.
 
-    printf("Fahrenheit\tCelsius\n");
+    printf("Fahrenheit:\tCelsius:\n");
     printf("---------------------------\n");
 
     fahr = lower;
