@@ -17,7 +17,7 @@ int main (int argc, char *argv[])
     printf("vertical tab:                  'vertical\vtab'\n");
     printf("backslash:                     '\\'\n");
     printf("single quotation mark:         '\''\n");
-    printf("double quotation mark:         '\\'\n");
+    printf("double quotation mark:         '\"'\n");
     printf("question mark:                 '\?'\n");
 
     return 0;
