@@ -35,21 +35,35 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 ---
 
 <b>Chapter 01</b>
-
+- 01 - Hello World
+- 02 - Escape sequences
+- 03 - Fahrenheit-Celsius conversion table (0 to 300)
+- 04 - Celsius-Fahrenheit conversion table
+- 05 - Fahrenheit-Celsius conversion table (300 to 0)
+- 06 - Verifying the expression value
+- 07 - Verifying EOF value
+- 08 - Blank space counter
 
 <b>Chapter 02</b>
+- Under development.
 
 <b>Chapter 03</b>
+- Under development.
 
 <b>Chapter 04</b>
+- Under development.
 
 <b>Chapter 05</b>
+- Under development.
 
 <b>Chapter 06</b>
+- Under development.
 
 <b>Chapter 07</b>
+- Under development.
 
 <b>Chapter 08</b>
+- Under development.
 
 <br>
 
