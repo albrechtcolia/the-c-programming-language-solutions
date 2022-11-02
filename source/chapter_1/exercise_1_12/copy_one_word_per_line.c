@@ -11,14 +11,13 @@ int main (int argc, char *argv[])
     int c;
 
     while ((c = getchar()) != EOF) {
-        if (c != ' ' || c != '\t' || c != '\n') {
+        if (c != ' ' && c != '\t' && c != '\n')
             putchar(c);
-        }
+
         else
             putchar('\n');
     }
 
     return 0;
 }
-
 
