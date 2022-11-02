@@ -9,11 +9,11 @@
 int main (int argc, char *argv[])
 {
     int character;
-    int spaces = 0, tabs = 0, newlines = 0;
+    int blanks = 0, tabs = 0, newlines = 0;
 
     while ((character = getchar()) != EOF) {
         if (character == ' ')
-            spaces++;
+            blanks++;
         if (character == '\t')
             tabs++;
         if (character == '\n')
@@ -21,7 +21,7 @@ int main (int argc, char *argv[])
     }
 
     printf("---------------------------\n");
-    printf("Total spaces:\t%d\n", spaces);
+    printf("Total blanks:\t%d\n", blanks);
     printf("Total tabs:\t%d\n", tabs);
     printf("Total newlines:\t%d\n", newlines);
 
