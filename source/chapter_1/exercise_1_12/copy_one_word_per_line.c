@@ -8,16 +8,20 @@
 
 int main (int argc, char *argv[])
 {
-    int c;
+    int c, prev;
 
     while ((c = getchar()) != EOF) {
-        if (c != ' ' && c != '\t' && c != '\n')
+        if (c == ' ' || c == '\t' || c == '\n') {
+            if (prev != ' ' && prev != '\t' && prev != '\n')
+                putchar('\n');
+        }
+        else 
             putchar(c);
 
-        else
-            putchar('\n');
+        prev = c;
     }
 
     return 0;
 }
+
 
