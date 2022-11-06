@@ -43,6 +43,13 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Verifying the expression value
 - 07 - Verifying EOF value
 - 08 - Blank space counter
+- 09 - Blank replacement
+- 10 - Escape sequence replacement
+- 11 - Word counter
+- 12 - String splitter
+- 13 - Word length histogram
+- 14 - Character frequency histogram
+- 15 - Fahrenheit-Celsius conversion table (using functions)
 
 <b>Chapter 02</b>
 - Under development.
