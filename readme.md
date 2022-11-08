@@ -50,6 +50,10 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 13 - Word length histogram
 - 14 - Character frequency histogram
 - 15 - Fahrenheit-Celsius conversion table (using functions)
+- 16 - Longest line program (character limit)
+- 17 - Print longer than 80 characters
+- 18 - Remove trailing blanks and tabs
+- 19 - Reverses the string
 
 <b>Chapter 02</b>
 - Under development.
