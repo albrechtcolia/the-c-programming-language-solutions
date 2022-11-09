@@ -54,6 +54,11 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 17 - Print longer than 80 characters
 - 18 - Remove trailing blanks and tabs
 - 19 - Reverses the string
+- 20 - Replaces tabs in the input with the proper number of blanks
+- 21 - Replaces strings of blanks with the minimum number of tabs and blanks
+- 22 - Splits a long string into short strings
+- 23 - Removes all comments from a C program
+- 24 - Checks for rudimentary syntax errors 
 
 <b>Chapter 02</b>
 - Under development.
