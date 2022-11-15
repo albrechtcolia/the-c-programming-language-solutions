@@ -66,6 +66,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 03 - Hexadecimal to decimal converter
 - 04 - Alternate version of squeeze function
 - 05 - Occurrence finder
+- 06 - Setting bits at a position n
+- 07 - Setting bits at a position n inverted
 
 <b>Chapter 03</b>
 - Under development.
