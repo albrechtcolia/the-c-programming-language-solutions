@@ -68,6 +68,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 05 - Occurrence finder
 - 06 - Setting bits at a position n
 - 07 - Setting bits at a position n inverted
+- 08 - Funciton that returns the value of the integer rotated to the right
 
 <b>Chapter 03</b>
 - Under development.
