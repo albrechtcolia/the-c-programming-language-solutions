@@ -73,7 +73,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 10 - Upper case to lower case
 
 <b>Chapter 03</b>
-- Under development.
+- 01 - Binsearch function
+- 02 - Escape sequences into the real characters
 
 <b>Chapter 04</b>
 - Under development.
