@@ -75,6 +75,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 <b>Chapter 03</b>
 - 01 - Binsearch function
 - 02 - Escape sequences into the real characters
+- 03 - Expand short hand notation into string
 
 <b>Chapter 04</b>
 - Under development.
