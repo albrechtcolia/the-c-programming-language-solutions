@@ -77,6 +77,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 02 - Escape sequences into the real characters
 - 03 - Expand short hand notation into string
 - 04 - Itoa to handle largest negative integer
+- 05 - Converts an integer into a string
 
 <b>Chapter 04</b>
 - Under development.
