@@ -81,7 +81,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Itoa with field width
 
 <b>Chapter 04</b>
-- Under development.
+- 01 - Find the pattern in the line and print it
 
 <b>Chapter 05</b>
 - Under development.
