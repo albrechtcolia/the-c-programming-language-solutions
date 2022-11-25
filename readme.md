@@ -82,6 +82,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 04</b>
 - 01 - Find the pattern in the line and print it
+- 02 - Strindex which returns rightmost occurance
 
 <b>Chapter 05</b>
 - Under development.
