@@ -84,6 +84,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 01 - Find the pattern in the line and print it
 - 02 - Strindex which returns rightmost occurance
 - 03 - Converts string to double
+- 04 - Extend atof to handle scientific notation
 
 <b>Chapter 05</b>
 - Under development.
