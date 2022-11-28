@@ -82,9 +82,11 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 04</b>
 - 01 - Find the pattern in the line and print it
-- 02 - Strindex which returns rightmost occurance
-- 03 - Converts string to double
-- 04 - Extend atof to handle scientific notation
+- 01 - Strindex which returns rightmost occurance
+- 02 - Atof - converts string to double
+- 02 - Extend atof to handle scientific notation
+- 03 - Reverse Polish Notation calculator 
+- 03 - RPN modulus operator and negative numbers
 
 <b>Chapter 05</b>
 - Under development.
