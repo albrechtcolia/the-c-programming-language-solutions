@@ -90,6 +90,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 04 - RPN Calculator - print two top elements of the stack without popping
 - 05 - RPN Calculator with mathematical functions
 - 06 - RPN Calculator with variables
+- 07 - Function ungets that will push back an entire string onto the input
 
 <b>Chapter 05</b>
 - Under development.
