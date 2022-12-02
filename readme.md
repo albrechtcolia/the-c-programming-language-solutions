@@ -92,6 +92,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - RPN Calculator with variables
 - 07 - Function ungets that will push back an entire string onto the input
 - 08 - Getch and ungetch handling pushback character
+- 09 - Getch and ungetch handling EOF Character
 
 <b>Chapter 05</b>
 - Under development.
