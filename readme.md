@@ -95,6 +95,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 09 - Getch and ungetch handling EOF character
 - 10 - Calculator using getline
 - 11 - Getline using static
+- 12 - Convert integer into string by calling recursive routine
 
 <b>Chapter 05</b>
 - Under development.
