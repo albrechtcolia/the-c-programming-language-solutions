@@ -97,6 +97,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 11 - Getline using static
 - 12 - Convert integer into string by calling recursive routine
 - 13 - String reverse function
+- 14 - Swap that interchanges two arguments of type t
 
 <b>Chapter 05</b>
 - Under development.
