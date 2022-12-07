@@ -100,7 +100,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 14 - Swap that interchanges two arguments of type t
 
 <b>Chapter 05</b>
-- Under development.
+- 01 - Get next integer from input
 
 <b>Chapter 06</b>
 - Under development.
