@@ -101,6 +101,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 05</b>
 - 01 - Get next integer from input
+- 02 - Get next float from input
 
 <b>Chapter 06</b>
 - Under development.
