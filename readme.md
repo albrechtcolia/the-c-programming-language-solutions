@@ -103,6 +103,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 01 - Get next integer from input
 - 02 - Get next float from input
 - 03 - Concatenates two strings
+- 04 - Checks if a string occurs at the end of another string
 
 <b>Chapter 06</b>
 - Under development.
