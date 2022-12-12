@@ -105,6 +105,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 03 - Concatenates two strings
 - 04 - Checks if a string occurs at the end of another string
 - 05 - Simple versions of strncpy, strncat, and strncmp
+- 06 - Find the pattern using pointers
 
 <b>Chapter 06</b>
 - Under development.
