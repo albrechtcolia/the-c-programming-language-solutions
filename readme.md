@@ -108,6 +108,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Find the pattern using pointers
 - 06 - Pointer to Arrays
 - 07 - Readlines using array
+- 08 - Date Duration Calculator
 
 <b>Chapter 06</b>
 - Under development.
