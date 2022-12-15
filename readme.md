@@ -109,6 +109,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Pointer to Arrays
 - 07 - Readlines using array
 - 08 - Date Duration Calculator
+- 09 - Date Duration Calculator using pointers
 
 <b>Chapter 06</b>
 - Under development.
