@@ -111,6 +111,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 08 - Date Duration Calculator
 - 09 - Date Duration Calculator using pointers
 - 10 - Evaluates a reverse polish expression from the command line
+- 11 - Entab and detab which accepts arguments
 
 <b>Chapter 06</b>
 - Under development.
