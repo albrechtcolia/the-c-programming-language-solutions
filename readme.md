@@ -113,6 +113,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 10 - Evaluates a reverse polish expression from the command line
 - 11 - Entab and detab which accepts arguments
 - 12 - Extended entab and detab
+- 13 - Prints the last n lines of its input
 
 <b>Chapter 06</b>
 - Under development.
