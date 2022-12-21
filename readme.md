@@ -115,6 +115,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 12 - Extended entab and detab
 - 13 - Prints the last n lines of its input
 - 14 - Sorting in reverse order
+- 15 - Fold upper and lower case together
 
 <b>Chapter 06</b>
 - Under development.
