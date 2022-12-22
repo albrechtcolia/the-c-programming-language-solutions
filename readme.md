@@ -1,6 +1,7 @@
 
 <div align='center'>
 
+
 <img src="images/banner.jpg" >
 
 </div>
@@ -116,6 +117,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 13 - Prints the last n lines of its input
 - 14 - Sorting in reverse order
 - 15 - Fold upper and lower case together
+- 16 - Compares only letters, numbers and blanks
 
 <b>Chapter 06</b>
 - Under development.
