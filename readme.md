@@ -118,6 +118,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 14 - Sorting in reverse order
 - 15 - Fold upper and lower case together
 - 16 - Compares only letters, numbers and blanks
+- 17 - Sorting with options
 
 <b>Chapter 06</b>
 - Under development.
