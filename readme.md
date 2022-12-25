@@ -120,6 +120,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 16 - Compares only letters, numbers and blanks
 - 17 - Sorting with options
 - 18 - Recover from input errors
+- 19 - Undcl that does not add redundant parentheses
 
 <b>Chapter 06</b>
 - Under development.
