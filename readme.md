@@ -126,6 +126,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 <b>Chapter 06</b>
 - 01 - Getword
 - 02 - Identical variables
+- 03 - Arrays of structures
 
 <b>Chapter 07</b>
 - Under development.
