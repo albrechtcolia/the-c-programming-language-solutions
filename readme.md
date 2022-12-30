@@ -127,6 +127,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 01 - Getword
 - 02 - Identical variables
 - 03 - Arrays of structures
+- 03 - Cross referencer
+- 04 - Words and frequency
 
 <b>Chapter 07</b>
 - Under development.
