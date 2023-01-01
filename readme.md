@@ -130,6 +130,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 03 - Cross referencer
 - 04 - Words and frequency
 - 05 - Undef - remove name and definition from table
+- 06 - Simple version of the #define processor
 
 <b>Chapter 07</b>
 - Under development.
