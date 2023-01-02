@@ -133,7 +133,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Simple version of the #define processor
 
 <b>Chapter 07</b>
-- Under development.
+- 01 -  Upper case to lower and lower case to upper
 
 <b>Chapter 08</b>
 - Under development.
