@@ -135,6 +135,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 <b>Chapter 07</b>
 - 01 - Upper case to lower and lower case to upper
 - 02 - Prints non-graphical characters in octal or hexadecimal
+- 03 - Minimalistic printf function
 
 <b>Chapter 08</b>
 - Under development.
