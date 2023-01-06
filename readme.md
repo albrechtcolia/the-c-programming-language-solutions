@@ -137,6 +137,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 02 - Prints non-graphical characters in octal or hexadecimal
 - 03 - Minimalistic printf function
 - 04 - Minimalistic scanf function
+- 05 - Postfix calculator using scanf
 
 <b>Chapter 08</b>
 - Under development.
