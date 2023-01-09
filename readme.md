@@ -139,6 +139,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 04 - Minimalistic scanf function
 - 05 - Postfix calculator using scanf
 - 06 - Compare two files
+- 07 - Pattern matching program with files
 
 <b>Chapter 08</b>
 - Under development.
