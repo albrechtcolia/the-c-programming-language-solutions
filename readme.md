@@ -140,6 +140,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 05 - Postfix calculator using scanf
 - 06 - Compare two files
 - 07 - Pattern matching program with files
+- 08 - Print pages to files
 
 <b>Chapter 08</b>
 - Under development.
