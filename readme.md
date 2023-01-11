@@ -141,6 +141,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 06 - Compare two files
 - 07 - Pattern matching program with files
 - 08 - Print pages to files
+- 09 - Analyze implementations of isupper
 
 <b>Chapter 08</b>
 - Under development.
