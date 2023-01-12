@@ -145,6 +145,9 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 08</b>
 - 01 - Program cat using read, write, open and close
+- 02 - Read and Write
+- 02 - Buffered and Unbuffered getchar
+- 02 - Fopen and _fillbuf with fields instead of explicit bit operations
 
 <br>
 
