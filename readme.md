@@ -144,7 +144,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 09 - Analyze implementations of isupper
 
 <b>Chapter 08</b>
-- Under development.
+- 01 - Program cat using read, write, open and close
 
 <br>
 
