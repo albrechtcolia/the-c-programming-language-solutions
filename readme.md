@@ -148,6 +148,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 02 - Read and Write
 - 02 - Buffered and Unbuffered getchar
 - 02 - Fopen and _fillbuf with fields instead of explicit bit operations
+- 03 - Open and create calls
+- 03 - Fflush, _flushbuf and fclose
 
 <br>
 
