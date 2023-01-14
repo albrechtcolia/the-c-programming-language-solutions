@@ -150,6 +150,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 02 - Fopen and _fillbuf with fields instead of explicit bit operations
 - 03 - Open and create calls
 - 03 - Fflush, _flushbuf and fclose
+- 04 - Implementation of fseek 
 
 <br>
 
