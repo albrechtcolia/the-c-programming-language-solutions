@@ -154,6 +154,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 05 - Inode entry
 - 06 - Alternate version of calloc function
 - 07 - Error checking by malloc
+- 08 - Bfree maintained by malloc
 
 <br>
 
