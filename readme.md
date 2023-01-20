@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/license/albrechtcolia/c-learning" >
 </p>
 
-hese are my solutions to exercises from the classic "The C Programming Language" by Brian Kernighan and Dennis Ritchie (2nd edition), also referred to as "K&R".
+These are my solutions to exercises from the classic "The C Programming Language" by Brian Kernighan and Dennis Ritchie (2nd edition), also referred to as "K&R".
 The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Project under development.</b>
