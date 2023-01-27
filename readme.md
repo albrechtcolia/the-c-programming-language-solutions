@@ -89,8 +89,8 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 03 - Reverse Polish Notation calculator 
 - 03 - RPN modulus operator and negative numbers
 - 04 - RPN Calculator - print two top elements of the stack without popping
-- 05 - RPN Calculator with mathematical functions
-- 06 - RPN Calculator with variables
+- 05 - RPN calculator with mathematical functions
+- 06 - RPN calculator with variables
 - 07 - Function ungets that will push back an entire string onto the input
 - 08 - Getch and ungetch handling pushback character
 - 09 - Getch and ungetch handling EOF character
@@ -107,7 +107,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 04 - Checks if a string occurs at the end of another string
 - 05 - Simple versions of strncpy, strncat, and strncmp
 - 06 - Find the pattern using pointers
-- 06 - Pointer to Arrays
+- 06 - Pointer to arrays
 - 07 - Readlines using array
 - 08 - Date Duration Calculator
 - 09 - Date Duration Calculator using pointers
