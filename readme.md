@@ -63,7 +63,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
 <b>Chapter 02</b>
 - 01 - Type ranges
-- 02 - Loop that represents '&& or ||' in another way
+- 02 - Loop that represents '&&' or '||' in another way
 - 03 - Hexadecimal to decimal converter
 - 04 - Alternate version of squeeze function
 - 05 - Occurrence finder
