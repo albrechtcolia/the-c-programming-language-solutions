@@ -144,7 +144,7 @@ The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 - 09 - Analyze implementations of isupper
 
 <b>Chapter 08</b>
-- 01 - Program cat using read, write, open and close
+- 01 - Program cat using Read, Write, Open and Close
 - 02 - Read and Write
 - 02 - Buffered and Unbuffered getchar
 - 02 - Fopen and _fillbuf with fields instead of explicit bit operations
