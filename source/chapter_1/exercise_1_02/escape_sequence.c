@@ -8,7 +8,7 @@
  */
 
 int main (int argc, char *argv[])
-{ 
+{
     printf("alert:                         '\a'\n");
     printf("backspace:                     'backspace\b'\n");
     printf("formfeed:                      'formfeed\f'\n");
