@@ -29,7 +29,7 @@ int main (int argc, char *argv[])
         printf("%3.0f\t\t%6.2f\n", fahr, celsius);
         fahr += step;
     }
-    
+
     return 0;
 }
 
