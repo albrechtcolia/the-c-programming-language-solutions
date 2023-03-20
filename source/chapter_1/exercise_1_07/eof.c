@@ -8,7 +8,7 @@
 
 int main (int argc, char *argv[])
 {
-    printf("EOF value: %d\n", EOF);    
+    printf("EOF value: %d\n", EOF);
 
     return 0;
 }
