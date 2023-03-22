@@ -18,7 +18,7 @@ int main (int argc, char *argv[])
             putchar('\\');
             putchar('t');
         }
-        
+
         else if (character == '\b') {
             putchar('\\');
             putchar('b');
