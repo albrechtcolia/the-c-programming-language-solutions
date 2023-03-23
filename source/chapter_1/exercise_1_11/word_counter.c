@@ -32,7 +32,7 @@ int main (int argc, char *argv[])
         else if (state == OUT) {
             state = IN;
             ++nw;
-        }    
+        }
     }
 
     printf("\n---------------------------\n");
