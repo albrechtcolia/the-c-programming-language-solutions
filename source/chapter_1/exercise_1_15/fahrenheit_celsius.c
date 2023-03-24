@@ -17,7 +17,7 @@ int main (int argc, char *argv[])
     lower = 0;      // Lower limit.
     upper = 300;    // Upper limit.
     step  = 20;     // Step size.
-    
+
     printf("Fahrenheit\tCelsius\n");
     printf("---------------------------\n");
 
@@ -29,7 +29,7 @@ int main (int argc, char *argv[])
 
 float fahrenheit_celsius (int fahrenheit) {
     float celsius;
-    celsius = ((5.0 / 9.0) * (fahrenheit - 32));    
+    celsius = ((5.0 / 9.0) * (fahrenheit - 32));
 
     return(celsius);
 }
