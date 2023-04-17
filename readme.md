@@ -19,6 +19,8 @@
 These are my solutions to exercises from the classic "The C Programming Language" by Brian Kernighan and Dennis Ritchie (2nd edition), also referred to as "K&R".
 The exercises in the book are very didactic and fun, I hope you enjoy them. :)
 
+I found some descriptions and examples of the exercises on this site: <a href="https://www.learntosolveit.com/">www.learntosolveit.com</a>.
+
 <b>Project under development.</b>
 
 <br>
