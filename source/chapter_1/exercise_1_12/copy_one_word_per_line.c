@@ -15,7 +15,7 @@ int main (int argc, char *argv[])
             if (prev != ' ' && prev != '\t' && prev != '\n')
                 putchar('\n');
         }
-        else 
+        else
             putchar(c);
 
         prev = c;
