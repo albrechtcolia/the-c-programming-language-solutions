@@ -39,7 +39,7 @@ int main (int argc, char *argv[])
         for (int j = 0; j < RANGE; j++) {
             if (char_frequency[j] >= i)
                 printf("*");
-            else 
+            else
                 printf(" ");
         }
 
