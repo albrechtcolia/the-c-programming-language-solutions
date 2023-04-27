@@ -9,6 +9,10 @@
  * a vertical orientation is more challenging.
  */
 
+/**
+ * Vertical version.
+ */
+
 #define MAX_WORDS 10
 
 int main (int argc, char *argv[])
